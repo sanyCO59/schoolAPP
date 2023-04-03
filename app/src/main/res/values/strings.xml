@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">schoolAPP</string>
+    <string name="but1Name">Кликер</string>
+    <string name="but2Name">Анимация</string>
+    <string name="but3Name">Карта</string>
+    <string name="but4Name">Прогноз погоды</string>
+</resources>
